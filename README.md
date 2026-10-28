@@ -8,6 +8,8 @@
 
 适用于 Windows x64。打开下载链接即可获取安装包，无需 GitHub 账号。已有版本直接运行新版安装包覆盖升级，沿用原日程与设置。
 
+0.5.3 修复后台日历缩放、年度倒计时、农历编辑与重复任务问题，并增强备份恢复保护。[查看具体修复](https://github.com/Aurore0706/desktop-daybook-downloads/releases/tag/v0.5.3)。
+
 ## 快速开始
 
 1. 下载并运行 `Desktop-Daybook-Setup.exe`，按安装向导完成安装。
